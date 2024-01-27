@@ -1,0 +1,13 @@
+#########################################################################
+# PlayerMilk by bjarne - Configuration file
+# https://github.com/bj4rnee/PlayerMilk
+# Please check for updates, and remember to update the config if needed!
+#########################################################################
+
+# Section related to the use of milk effects.
+
+effects:
+  
+  # Set this to 'false' if you want to disable players getting the nausea effect after drinking PlayerMilk.
+  # This is turned on by default.
+  enabled: true
